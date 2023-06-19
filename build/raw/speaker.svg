@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2592 1728" style="enable-background:new 0 0 2592 1728;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#231F20;stroke-width:0.072;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#231F20;stroke-width:0.072;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.072;stroke-linecap:round;stroke-miterlimit:288;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:0.072;stroke-miterlimit:10;}
+	.st5{display:none;}
+	.st6{display:inline;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{font-size:12px;}
+</style>
+<g id="sketch">
+	<rect x="779.37" y="91.31" class="st0" width="63.7" height="42.46"/>
+	<path class="st1" d="M905.84,98.37l0.53,0.04c6.37,0.93,6.32,9.8-0.06,10.65l-0.53,0.03h-31.9c-2.85-0.04-5.14-2.27-5.28-5.12
+		v-0.54c0.2-2.87,2.49-5.02,5.35-5.05H905.84z"/>
+	<path class="st1" d="M943.31,444.11l0.53,0.04c6.37,0.93,6.32,9.8-0.06,10.65l-0.53,0.03h-31.9c-2.85-0.04-5.14-2.27-5.28-5.12
+		v-0.54c0.2-2.87,2.49-5.02,5.36-5.05H943.31z"/>
+	<circle class="st2" cx="275.72" cy="629.51" r="108"/>
+	<circle class="st2" cx="275.72" cy="503.15" r="12.6"/>
+	<circle class="st2" cx="275.72" cy="755.87" r="12.6"/>
+	<circle class="st2" cx="149.36" cy="629.51" r="12.6"/>
+	<circle class="st2" cx="402.08" cy="629.51" r="12.6"/>
+	<circle class="st2" cx="149.36" cy="629.51" r="9.72"/>
+	<circle class="st2" cx="402.08" cy="629.51" r="9.72"/>
+	<circle class="st2" cx="275.72" cy="755.87" r="9.72"/>
+	<circle class="st2" cx="275.72" cy="503.15" r="9.72"/>
+	<path id="front_outsideCutPath" vector-effect="non-scaling-stroke" class="st3" d="M99.32,453.11v44.14h14.4v37.8h-14.4v37.8h14.4
+		v37.8h-14.4v37.8h14.4v37.8h-14.4v37.8h14.4v37.8h-14.4v44.06h44.14v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4
+		h37.8v-14.4h37.8v14.4h44.06v-44.06h-14.4v-37.8h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-37.8h14.4
+		v-44.14h-44.06v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4H99.32z"/>
+	<path id="left_outsideCutPath" vector-effect="non-scaling-stroke" class="st3" d="M475.52,453.11v44.14h-14.4v37.8h14.4v37.8
+		h-14.4v37.8h14.4v37.8h-14.4v37.8h14.4v37.8h-14.4v37.8h14.4v44.06h31.54v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4h37.8v-14.4h37.8
+		v14.4h31.46v-44.06h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-44.14h-31.46v14.4
+		h-37.8v-14.4h-37.8v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4H475.52z"/>
+	<path id="top_outsideCutPath" vector-effect="non-scaling-stroke" class="st3" d="M765.32,539.51v31.54h-14.4v37.8h14.4v37.8h-14.4
+		v37.8h14.4v37.8h-14.4v37.8h14.4v31.46h29.74v14.4h37.8v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4h37.8v-14.4
+		h29.66v-31.46h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-31.54h-29.66v-14.4h-37.8v14.4h-37.8v-14.4h-37.8
+		v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4h-37.8v14.4H765.32z"/>
+	<path id="back_outsideCutPath" vector-effect="non-scaling-stroke" class="st3" d="M99.32,91.31v44.14h14.4v37.73h-14.4v37.8h14.4
+		v37.87h-14.4v37.8h14.4v37.8h-14.4v37.8h14.4v37.8h-14.4v44.06h44.14v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4
+		h37.8v-14.4h37.8v14.4h44.06v-44.06h-14.4v-37.8h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-37.87h14.4v-37.8h-14.4v-37.73h14.4
+		V91.31h-44.06v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4H99.32z"/>
+	<path id="right_outsideCutPath" vector-effect="non-scaling-stroke" class="st3" d="M475.52,91.31v44.14h-14.4v37.73h14.4v37.8
+		h-14.4v37.87h14.4v37.8h-14.4v37.8h14.4v37.8h-14.4v37.8h14.4v44.06h31.54v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4h37.8v-14.4h37.8
+		v14.4h31.46v-44.06h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-37.8h14.4v-37.87h-14.4v-37.8h14.4v-37.73h-14.4V91.31h-31.46v14.4
+		h-37.8v-14.4h-37.8v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4H475.52z"/>
+	<path id="bottom_outsideCutPath" vector-effect="non-scaling-stroke" class="st3" d="M765.32,249.71v31.54h-14.4v37.73h14.4v37.87
+		h-14.4v37.8h14.4v37.8h-14.4v37.8h14.4v31.46h29.74v14.4h37.8v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4h37.8v-14.4h37.8v14.4h37.8
+		v-14.4h29.66v-31.46h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-37.8h14.4v-37.8h-14.4v-31.54h-29.66v-14.4h-37.8v14.4h-37.8v-14.4
+		h-37.8v14.4h-37.8v-14.4h-37.8v14.4h-37.8v-14.4h-37.8v14.4H765.32z"/>
+	<circle class="st4" cx="821.66" cy="375.71" r="23.58"/>
+	<circle class="st4" cx="1032.98" cy="375.71" r="23.58"/>
+	<rect x="892.04" y="433.4" class="st4" width="70.57" height="44.88"/>
+</g>
+<g id="text" class="st5">
+	<text transform="matrix(1 0 0 1 639.7236 752.9318)" class="st6"><tspan x="0" y="0" class="st7 st8">engrave outer circle</tspan><tspan x="0" y="14.4" class="st7 st8">0.1” depth</tspan></text>
+	<text transform="matrix(1 0 0 1 1118.2045 325.5274)" class="st6"><tspan x="0" y="0" class="st7 st8">magnet holes</tspan><tspan x="0" y="14.4" class="st7 st8">0.1” deep</tspan></text>
+	<text transform="matrix(1 0 0 1 1226.8022 407.1141)" class="st6"><tspan x="0" y="0" class="st7 st8">engrave rectangle</tspan><tspan x="0" y="14.4" class="st7 st8">0.1” depth</tspan></text>
+</g>
+</svg>
